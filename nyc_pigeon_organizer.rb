@@ -15,7 +15,6 @@ end
 final_array[name][key] << inner_key
 end
 end
-final_array
 end
 binding.pry
 end
