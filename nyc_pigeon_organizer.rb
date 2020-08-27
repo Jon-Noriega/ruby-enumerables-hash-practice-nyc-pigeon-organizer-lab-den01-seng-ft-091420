@@ -14,8 +14,8 @@ final_results = data.each_with_object({}) do |(key, value), final_array|
           !final_array[name][key] = []
         end
             final_array[name][key] << inner_key.to_s
-end
-end
-end
+            end
+          end
+        end
 # binding.pry
 end
