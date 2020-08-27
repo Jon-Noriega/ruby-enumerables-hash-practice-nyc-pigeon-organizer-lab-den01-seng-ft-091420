@@ -16,6 +16,5 @@ final_array[name][key] << inner_key
 end
 final_array
 end
-  
 binding.pry
 end
